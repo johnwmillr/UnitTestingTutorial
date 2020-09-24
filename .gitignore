@@ -1,0 +1,29 @@
+# Data
+data
+*.csv
+*.json
+*.txt
+*.pickle
+*.tsv
+
+# Python
+*.pyc
+__pycache__
+build
+dist
+*.egg-info
+
+# Jupyter
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+Icon[]
+
+# Media
+media
+images
+
+# Pyspark
+*.log
+metastore_db
